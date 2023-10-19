@@ -1,5 +1,5 @@
 {
-  "title": "DreymaR Extend",
+  "title": "DreymaR Extend - wide mod",
   "rules": [{
     "description": "Implements the Extend layer created by DreymaR as documented in https://dreymar.colemak.org/layers-extend.html, with some modifications.",
     "manipulators": [{
