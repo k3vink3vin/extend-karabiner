@@ -559,7 +559,24 @@
         "value": 1
       }],
       "from": {
-        "key_code": "close_bracket",
+        "key_code": "y",
+        "modifiers": {
+          "mandatory": [],
+          "optional": ["any"]
+        }
+      },
+      "to": [{
+        "key_code": "escape"
+      }],
+      "type": "basic"
+    }, {
+      "conditions": [{
+        "name": "extend",
+        "type": "variable_if",
+        "value": 1
+      }],
+      "from": {
+        "key_code": "h",
         "modifiers": {
           "mandatory": [],
           "optional": ["any"]
@@ -567,6 +584,23 @@
       },
       "to": [{
         "key_code": "insert"
+      }],
+      "type": "basic"
+    }, {
+      "conditions": [{
+        "name": "extend",
+        "type": "variable_if",
+        "value": 1
+      }],
+      "from": {
+        "key_code": "spacebar",
+        "modifiers": {
+          "mandatory": [],
+          "optional": ["any"]
+        }
+      },
+      "to": [{
+        "key_code": "return_or_enter"
       }],
       "type": "basic"
     }, {
@@ -685,7 +719,7 @@
         }
       },
       "to": [{
-        "key_code": "f7"
+        "key_code": "f12"
       }],
       "type": "basic"
     }, {
@@ -702,7 +736,7 @@
         }
       },
       "to": [{
-        "key_code": "f8"
+        "key_code": "f7"
       }],
       "type": "basic"
     }, {
@@ -719,7 +753,7 @@
         }
       },
       "to": [{
-        "key_code": "f9"
+        "key_code": "f8"
       }],
       "type": "basic"
     }, {
@@ -736,7 +770,7 @@
         }
       },
       "to": [{
-        "key_code": "f10"
+        "key_code": "f9"
       }],
       "type": "basic"
     }, {
@@ -753,7 +787,7 @@
         }
       },
       "to": [{
-        "key_code": "f11"
+        "key_code": "f10"
       }],
       "type": "basic"
     }, {
@@ -770,7 +804,7 @@
         }
       },
       "to": [{
-        "key_code": "f12"
+        "key_code": "f11"
       }],
       "type": "basic"
     }]
