@@ -7,10 +7,10 @@ This is a karabiner elements complex ruleset for DreymaR's extend layer (wide). 
 After downloading [Karabiner Elements](https://karabiner-elements.pqrs.org/) and giving it the required permissions, just paste this link into your browser. `karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/k3vink3vin/extend-karabiner/master/extend.json`
 
 # What are the changes?
-The following is an image of DreymaR's extend layer (wide) for reference.
+The following is an edited image of DreymaR's extend layer showing what is in this ruleset.
 ![image](https://github.com/ProfXwing/extend-karabiner/assets/5555353/0551e2ab-d4da-4f2c-9bf2-593c87e54d18)
 
-My ruleset includes everything but the compose key, the break key, the menu key, and the print screen key.
+The ruleset includes everything but the compose key, the break key, the menu key, and the print screen key.
 In addition, the Ctrl key is replaced with Mac's option key because the main usage is for text navigation. The Alt key is replaced with the Ctrl key.
 
 # Soooooo, how do I use this again?
